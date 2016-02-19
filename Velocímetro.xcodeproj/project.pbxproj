@@ -47,7 +47,7 @@
 		83F3614D1C77787300A7197A /* VelocímetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "VelocímetroUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		83F361511C77787300A7197A /* Veloci_metroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Veloci_metroUITests.swift; sourceTree = "<group>"; };
 		83F361531C77787300A7197A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		83F3615F1C777B8400A7197A /* Velocímetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Velocímetro.playground"; path = "Velocímetro/Velocímetro.playground"; sourceTree = "<group>"; };
+		83F361611C777E9D00A7197A /* Velocímetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Velocímetro.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +78,7 @@
 		83F361251C77787300A7197A = {
 			isa = PBXGroup;
 			children = (
-				83F3615F1C777B8400A7197A /* Velocímetro.playground */,
+				83F361611C777E9D00A7197A /* Velocímetro.playground */,
 				83F361301C77787300A7197A /* Velocímetro */,
 				83F361451C77787300A7197A /* VelocímetroTests */,
 				83F361501C77787300A7197A /* VelocímetroUITests */,
